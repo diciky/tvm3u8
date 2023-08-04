@@ -1466,4 +1466,11 @@ http://hls.live.cqccn.com/__cl/cg:live/__c/shengtai/__op/default/__f/index.m3u8
 https://live.goodiptv.club/api/cqyx.php?id=soucang
 http://113.207.84.197:8090/__cl/cg:live/__c/soucang/__op/default/__f/index.m3u8
 http://hls.live.cqccn.com/__cl/cg:live/__c/soucang/__op/default/__f/index.m3u8
-
+#EXTINF:-1 ,深圳都市
+http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
+#EXTINF:-1 ,深圳众创
+http://liveplay.sznews.com/66_showto_live/2645.m3u8
+#EXTINF:-1 ,深圳东部
+http://liveplay.sznews.com/66_showto_live/2646.m3u8
+#EXTINF:-1 ,深圳龙岗
+http://liveplay.sznews.com/66_showto_live/2647.m3u8
