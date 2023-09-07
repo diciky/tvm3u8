@@ -493,5 +493,6 @@ BesTVLive,http://192.168.2.220:4022/udp/239.253.43.118:5146
 百事通,http://192.168.2.220:4022/udp/239.253.43.119:5146
 精选频道,http://192.168.2.220:4022/udp/239.77.0.186:5146
 三立新闻海外,https://www.youtube.com/watch?v=FoBfXvlOR6I
-寰宇新聞台湾,https://www.youtube.com/watch?v=B7Zp3d6xXWw
+寰宇新聞台1,https://www.youtube.com/watch?v=B7Zp3d6xXWw
 寰宇新聞台2,https://www.youtube.com/watch?v=V8ue1aoEOEQ
+寰宇新聞台湾,https://www.youtube.com/watch?v=UcTIv4ZaE5Y
