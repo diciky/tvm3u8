@@ -7,3 +7,4 @@ payload:
 #  - GEOIP,CN
 #  - DST-PORT,80
 #  - SRC-PORT,7777
+  - DOMAIN-KEYWORD,baidu
