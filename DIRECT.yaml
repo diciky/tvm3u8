@@ -6,6 +6,6 @@
 #  - GEOIP,CN
 #  - DST-PORT,80
 #  - SRC-PORT,7777
-- DOMAIN-KEYWORD,baidu,DIRECT
-- DOMAIN-KEYWORD,tianmw,DIRECT
-- DOMAIN-KEYWORD,weixingdianshiptv,DIRECT
+- DOMAIN-KEYWORD,baidu
+- DOMAIN-KEYWORD,tianmw
+- DOMAIN-KEYWORD,weixingdianshiptv
