@@ -1022,6 +1022,8 @@ http://192.168.2.220:4022/udp/239.253.43.116:5146
 #EXTINF:-1,tvg-id="百事通" tvg-name="百事通" tvg-logo="https://epg.112114.xyz/logo/百事通.png" group-title="其他",百事通
 http://192.168.2.220:4022/udp/239.253.43.117:5146
 #EXTINF:-1,tvg-id="百事通" tvg-name="百事通" tvg-logo="https://epg.112114.xyz/logo/百事通.png" group-title="其他",百事通
+http://192.168.2.220:4022/udp/239.253.43.118:5146
+#EXTINF:-1,tvg-id="百事通" tvg-name="百事通" tvg-logo="https://epg.112114.xyz/logo/百事通.png" group-title="其他",百事通
 http://192.168.2.220:4022/udp/239.253.43.119:5146
 #EXTINF:-1,tvg-id="NEWTV热播精选" tvg-name="NEWTV热播精选" tvg-logo="https://epg.112114.xyz/logo/NEWTV热播精选.png" group-title="其他",精选频道
 http://192.168.2.220:4022/udp/239.77.0.186:5146
