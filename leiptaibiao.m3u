@@ -362,15 +362,9 @@ http://10.10.10.241:4022/rtp/239.253.43.103:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-广东地方台",东莞生活资讯
 http://10.10.10.241:4022/rtp/239.253.43.105:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="IPTV-央视",CCTV1
-http://10.10.10.241:4022/rtp/239.77.0.30:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="IPTV-央视",CCTV1
-http://10.10.10.241:4022/rtp/239.77.1.20:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="IPTV-央视",CCTV1
 http://10.10.10.241:4022/rtp/239.77.1.17:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="IPTV-央视",CCTV1
 http://10.10.10.241:4022/rtp/239.77.1.144:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="IPTV-央视",CCTV1
-http://10.10.10.241:4022/rtp/239.77.0.86:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="IPTV-央视",CCTV1
 http://10.10.10.241:4022/rtp/239.77.0.129:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="IPTV-央视",CCTV2财经
