@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="IPTV-广东电视台",广东卫视
-http://10.10.10.241:4022/rtp/239.77.0.2:5146
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="IPTV-广东电视台",广东卫视
-http://10.10.10.241:4022/rtp/239.77.1.2:5146
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="IPTV-广东电视台",广东卫视
 http://10.10.10.241:4022/rtp/239.77.1.19:5146
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="IPTV-广东电视台",广东卫视
 http://10.10.10.241:4022/rtp/239.77.1.152:5146
@@ -14,25 +10,13 @@ http://10.10.10.241:4022/rtp/239.77.0.84:5146
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="IPTV-广东电视台",广东卫视
 http://10.10.10.241:4022/rtp/239.77.0.166:5146
 #EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="IPTV-广东电视台",广东珠江
-http://10.10.10.241:4022/rtp/239.77.0.3:5146
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="IPTV-广东电视台",广东珠江
-http://10.10.10.241:4022/rtp/239.77.1.94:5146
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="IPTV-广东电视台",广东珠江
 http://10.10.10.241:4022/rtp/239.77.0.1:5146
 #EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="IPTV-广东电视台",广东珠江
 http://10.10.10.241:4022/rtp/239.77.0.114:5146
 #EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="IPTV-广东电视台",广东新闻
-http://10.10.10.241:4022/rtp/239.77.0.4:5146
-#EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="IPTV-广东电视台",广东新闻
 http://10.10.10.241:4022/rtp/239.77.0.173:5146
 #EXTINF:-1 tvg-id="6014" tvg-name="广东公共" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" group-title="IPTV-广东电视台",广东公共
-http://10.10.10.241:4022/rtp/239.77.0.5:5146
-#EXTINF:-1 tvg-id="6014" tvg-name="广东公共" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" group-title="IPTV-广东电视台",广东公共
 http://10.10.10.241:4022/rtp/239.77.0.225:5146
-#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="IPTV-广东电视台",广东体育
-http://10.10.10.241:4022/rtp/239.77.0.6:5146
-#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="IPTV-广东电视台",广东体育
-http://10.10.10.241:4022/rtp/239.77.1.97:5146
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="IPTV-广东电视台",广东体育
 http://10.10.10.241:4022/rtp/239.77.0.112:5146
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="IPTV-广东电视台",广东体育
@@ -40,33 +24,19 @@ http://10.10.10.241:4022/rtp/239.77.0.168:5146
 #EXTINF:-1 tvg-id="6017" tvg-name="广东国际" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV8.png" group-title="IPTV-广东电视台",广东国际
 http://10.10.10.241:4022/rtp/239.77.0.7:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-广东电视台",经济科教
-http://10.10.10.241:4022/rtp/239.77.0.8:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-广东电视台",经济科教
 http://10.10.10.241:4022/rtp/239.77.0.85:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-广东电视台",经济科教
 http://10.10.10.241:4022/rtp/239.77.0.167:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-广东电视台",南方卫视
-http://10.10.10.241:4022/rtp/239.77.0.9:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-广东电视台",南方卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-广东电视台",大湾区卫视
 http://10.10.10.241:4022/rtp/239.77.0.215:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-广东电视台",南方卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-广东电视台",大湾区卫视
 http://10.10.10.241:4022/rtp/239.77.1.12:5146
-#EXTINF:-1 tvg-id="7250" tvg-name="广东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" group-title="IPTV-广东电视台",广东影视
-http://10.10.10.241:4022/rtp/239.77.0.11:5146
 #EXTINF:-1 tvg-id="7250" tvg-name="广东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" group-title="IPTV-广东电视台",广东影视
 http://10.10.10.241:4022/rtp/239.77.0.217:5146
 #EXTINF:-1 tvg-id="7253" tvg-name="广东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" group-title="IPTV-广东电视台",广东少儿
-http://10.10.10.241:4022/rtp/239.77.0.12:5146
-#EXTINF:-1 tvg-id="7253" tvg-name="广东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" group-title="IPTV-广东电视台",广东少儿
 http://10.10.10.241:4022/rtp/239.77.0.250:5146
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="IPTV-广东电视台",嘉佳卡通
-http://10.10.10.241:4022/rtp/239.77.0.13:5146
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="IPTV-广东电视台",嘉佳卡通
-http://10.10.10.241:4022/rtp/239.77.1.15:5146
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="IPTV-广东电视台",嘉佳卡通
 http://10.10.10.241:4022/rtp/239.77.0.179:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-广东电视台",南方购物
-http://10.10.10.241:4022/rtp/239.77.0.19:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-广东电视台",南方购物
 http://10.10.10.241:4022/rtp/239.77.0.22:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-广东电视台",岭南戏曲
@@ -77,8 +47,6 @@ http://10.10.10.241:4022/rtp/239.77.0.14:5146
 http://10.10.10.241:4022/rtp/239.77.0.18:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-广东电视台",广东移动
 http://10.10.10.241:4022/rtp/239.77.0.20:5146
-#EXTINF:-1 tvg-id="7251" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="IPTV-广东电视台",广东综艺
-http://10.10.10.241:4022/rtp/239.77.1.236:5146
 #EXTINF:-1 tvg-id="7251" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="IPTV-广东电视台",广东综艺
 http://10.10.10.241:4022/rtp/239.77.1.237:5146
 #EXTINF:-1 tvg-id="7251" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="IPTV-广东电视台",广东综艺
