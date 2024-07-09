@@ -544,12 +544,7 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 
 少儿,#genre#
-火影忍者,http://live.iill.top/douyu.php?id=1997723
-哈哈炫动,http://44966c.netsite.cc/proxy/1655047572/1655047572.m3u8#http://bb66b6.netsite.cc/proxy/1655047572/1655047572.m3u8
-中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
-宝宝动画,https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-金鹰卡通,http://113.218.229.25:8081/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0#http://106.46.114.199:8011/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0#http://223.159.10.126:8099/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0#http://58.48.37.158:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 
 体育,#genre#
 高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
