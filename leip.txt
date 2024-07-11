@@ -535,6 +535,7 @@ BesTVLIve,http://10.10.10.241:4022/udp/239.253.43.118:5146
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 港澳,#genre#
+翡翠台🇻🇳,https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8#http://103.95.24.37:880/fhws.m3u8
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8#http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8#http://103.95.24.37:880/fhzx.m3u8
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8#http://103.95.24.37:880/fhxgt.m3u8
