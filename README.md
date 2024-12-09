@@ -8,3 +8,6 @@ https://raw.githubusercontent.com/diciky/tvm3u8/main/le.m3u8
 
 #
 https://ghproxy.com/https://raw.githubusercontent.com/diciky/tvm3u8/main/le.m3u8
+
+#epg
+https://epg.112114.xyz/pp.xml
