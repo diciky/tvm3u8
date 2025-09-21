@@ -478,17 +478,17 @@ http://10.10.10.241:4022/rtp/239.253.43.35:5146
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="IPTV-卫视",海南卫视
 http://10.10.10.241:4022/rtp/239.253.43.101:5146
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="IPTV-卫视",宁夏卫视
-http://10.10.10.241:4022/rtp/239.77.0.73:5146
+http://10.10.10.241:4022/rtp/239.77.0.49:5146
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="IPTV-卫视",宁夏卫视
 http://10.10.10.241:4022/rtp/239.77.1.47:5146
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="IPTV-卫视",西藏卫视
-http://10.10.10.241:4022/rtp/239.77.0.74:5146
+http://10.10.10.241:4022/rtp/239.77.1.26:5146
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="IPTV-卫视",西藏卫视
-http://10.10.10.241:4022/rtp/239.77.1.49:5146
+http://10.10.10.241:4022/rtp/239.77.0.46:5146
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="IPTV-卫视",新疆卫视
-http://10.10.10.241:4022/rtp/239.77.0.75:5146
+http://10.10.10.241:4022/rtp/239.77.1.25:5146
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="IPTV-卫视",新疆卫视
-http://10.10.10.241:4022/rtp/239.77.1.53:5146
+http://10.10.10.241:4022/rtp/239.77.0.47:5146
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="IPTV-卫视",甘肃卫视
 http://10.10.10.241:4022/rtp/239.77.0.76:5146
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="IPTV-卫视",甘肃卫视
@@ -496,9 +496,9 @@ http://10.10.10.241:4022/rtp/239.77.1.57:5146
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="IPTV-卫视",甘肃卫视
 http://10.10.10.241:4022/rtp/239.77.0.189:5146
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="IPTV-卫视",兵团卫视
-http://10.10.10.241:4022/rtp/239.77.0.77:5146
+http://10.10.10.241:4022/rtp/239.77.1.29:5146
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="IPTV-卫视",兵团卫视
-http://10.10.10.241:4022/rtp/239.77.1.80:5146
+http://10.10.10.241:4022/rtp/239.77.0.48:5146
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="IPTV-卫视",厦门卫视
 http://10.10.10.241:4022/rtp/239.77.0.96:5146
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="IPTV-卫视",三沙卫视
@@ -612,7 +612,7 @@ http://10.10.10.241:4022/rtp/239.77.1.81:5146
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="IPTV-数字付费",中国交通
 http://10.10.10.241:4022/rtp/239.77.1.249:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-数字付费",中国天气
-http://10.10.10.241:4022/rtp/239.77.1.143:5146
+http://10.10.10.241:4022/rtp/239.77.1.2:5146
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="IPTV-数字付费",茶频道
 http://10.10.10.241:4022/rtp/239.77.0.15:5146
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="IPTV-数字付费",茶频道
@@ -937,3 +937,11 @@ http://14.212.185.27:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1,足球频道
 https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
+#EXTINF:-1,晴彩竞技
+http://10.10.10.241:4022/rtp/239.77.1.20:5146
+#EXTINF:-1,晴彩篮球
+http://10.10.10.241:4022/rtp/239.77.1.21:5146
+#EXTINF:-1,晴彩少年
+http://10.10.10.241:4022/rtp/239.77.1.22:5146
+#EXTINF:-1,晴彩广场舞
+http://10.10.10.241:4022/rtp/239.77.1.23:5146
