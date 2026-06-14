@@ -272,7 +272,7 @@ http://10.10.10.241:4022/rtp/239.77.1.239:5146
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV-15 音乐" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV15.png" group-title="IPTV-央视" resolution="" ,CCTV-15 音乐
 http://10.10.10.241:4022/rtp/239.77.1.120:5146
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="IPTV-央视" resolution="" ,CCTV16
-http://10.10.10.241:4022/rtp/239.77.1.76:5146
+http://10.10.10.241:4022/rtp/239.77.0.165:5146
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16-4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="IPTV-央视" resolution="" ,CCTV16-4K
 http://10.10.10.241:4022/rtp/239.77.1.98:5146
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV-17 农业农村" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV17.png" group-title="IPTV-央视" resolution="" ,CCTV-17 农业农村
